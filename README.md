@@ -8,7 +8,8 @@
 - **Javascripts**  
 - **JQuery-plugins**  
 - **Flexbox**  
-- **Containers and Variables**   
+- **Containers and Variables** 
+- **Responsive**  
 
 ### **#carrefourwebdeveloperdio**  
 
